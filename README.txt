@@ -7,4 +7,3 @@ Before you open the virus please:
 Thank you!
 Please note: This batch file is considered a malware. Please run it on a virtual machine.
 
-Created By VeryRandomJAOSF on youtube.
